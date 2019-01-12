@@ -551,6 +551,24 @@
 						}
 					],
 					"updated": "25-6-2018"
+				},
+				{
+					"prettyName": "Mifare RC522 integrations",
+					"icon": "fa-lightbulb-o",
+					"name": "raspi_nfc_spi",
+					"version": "0.1.0",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/user_interface/raspi_nfc_spi/raspi_nfc_spi.zip",
+					"license": "MIT",
+					"description": "Start and stop playlists on your Raspberry PI with MiFare RC522 and NFC tags",
+					"details": "Adds the ability to map NFC tokens to playlists. You can use it to implement a children-friendly yet good sounding audio player. It's still in early development and limited by the plugin frameworks' capabilities, but it... works",
+					"author": "Oliver Jaegle",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "12-1-2019"
 				}
 			]
 		}
