@@ -556,7 +556,7 @@
 					"prettyName": "Mifare RC522 integrations",
 					"icon": "fa-lightbulb-o",
 					"name": "raspi_nfc_spi",
-					"version": "0.1.0",
+					"version": "0.2.0",
 					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/user_interface/raspi_nfc_spi/raspi_nfc_spi.zip",
 					"license": "MIT",
 					"description": "Start and stop playlists on your Raspberry PI with MiFare RC522 and NFC tags",
@@ -568,7 +568,7 @@
 							"thumb": ""
 						}
 					],
-					"updated": "12-1-2019"
+					"updated": "14-1-2019"
 				}
 			]
 		}
